@@ -1,4 +1,4 @@
 gReCaptcha
 ==========
 
-New Google Recaptcha For WordPress From BootstrapPremium.com
+New Google Recaptcha For WordPress From BootstrapPremium 
